@@ -23,6 +23,7 @@ the most I have ever encountered in my life, and to this day, this was a conside
 in my friend's basement and the power that would emanate from it would turn on computers, speakers, and devices that had no batteries in them. 
 I remember us turning off the device, which was very loud, and hearing noises coming from a closet which hid a discarded electronic version of 
 the classic board game Battleship. The game had no batteries in it and was clearly many years old, but the Tesla coil had breathed life into the device 
-which blinked and hummed to life in my hands. I was blown away by what we had built and I was completely hooked.
+which blinked and hummed to life in my hands. I was only 15 years old but I knew that this was something that the majority of people in the world would 
+never experience, which was a very intense experience for such a young person. I was blown away by what we had built and I was completely hooked. 
 
 
