@@ -3,7 +3,7 @@ layout: post
 title: "Tesla Coil Mk IV Overview"
 date: 2013-06-01
 ---
-
+## Introduction 
 Well, this is my blog and I'd say I would prefer to do whatever I want with it. This is technically my first post and a trial to see
 how I can organize my thoughts and develop a consistent way of organizing things so I'll begin by introducing an engineering project I worked on
 in the summer of 2013 (it feels like such a long time ago). 
